@@ -1,4 +1,4 @@
-Este encirptador de texto funciona cambiando las vocales "a", "e", "i", "o" y "u" de la siguiente manera:
+Este encirptador de texto funciona cambiando las vocales "a", "e", "i", "o" y "u" de la siguiente manera:\n
   La letra "e" es convertida para "enter"
   La letra "i" es convertida para "imes"
   La letra "a" es convertida para "ai"
